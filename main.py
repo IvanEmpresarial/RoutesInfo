@@ -7,12 +7,12 @@ from PIL import Image, ImageTk
 
 # Asocia a los vendedores con su número mayorista
 asociaciones_vendedores = {
-    39: [39, 88], # Ricardo
-    57: [57, 58, 100, 41], # Julieta y subditos
-    65: [65, 89], # Sebastian
-    56: [56, 26], # Franco
-    36: [36, 27], # Matias
-    71: [71, 29], # Fabricio
+    39: [39, 88], # Vendedor 39
+    57: [57, 58, 100, 41], # Vendedor 57
+    65: [65, 89], # Vendedor 65
+    56: [56, 26], # Vendedor 56
+    36: [36, 27], # Vendedor 36
+    71: [71, 29], # Vendedor 71
 }
 
 # Inicializa una lista para almacenar los DataFrames
